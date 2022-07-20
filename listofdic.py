@@ -1,0 +1,14 @@
+mobiles=[
+    {"product_id":1000,"product_name":"vivo_v5","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1001,"product_name":"redmi_9_power","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1002,"product_name":"redminote10","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1003,"product_name":"realmi","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1004,"product_name":"HTC","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1005,"product_name":"oppo","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1006,"product_name":"samsung","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1007,"product_name":"lava","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1008,"product_name":"motorola","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1009,"product_name":"parasonic","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1010,"product_name":"oneplus","price"=27000,"display":"amoled","aval_stock":40},
+    {"product_id":1011,"product_name":"apple","price"=27000,"display":"amoled","aval_stock":40},
+]
